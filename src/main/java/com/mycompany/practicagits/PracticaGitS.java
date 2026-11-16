@@ -8,9 +8,8 @@ package com.mycompany.practicagits;
  *
  * @author andre
  */
-public class PracticaGitS {
-
+public class PracticaGit {
     public static void main(String[] args) {
-        System.out.println("Trabajando en la rama pruebas");
+        System.out.println("Hola Git");
     }
 }
