@@ -11,6 +11,6 @@ package com.mycompany.practicagits;
 public class PracticaGitS {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Trabajando en la rama pruebas");
     }
 }
